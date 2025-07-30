@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "api/copiar-texto.js", "use": "@vercel/node" }
+  ]
+}
